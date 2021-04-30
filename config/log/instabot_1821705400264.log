@@ -1,0 +1,42 @@
+2021-04-19 17:58:28,809 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2021-04-19 17:58:28,810 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from c:\users\yelzha\appdata\local\programs\python\python37\lib\site-packages\instabot\bot\bot.py
+2021-04-19 17:58:28,811 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2021-04-19 17:58:29,810 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [403]>
+2021-04-19 17:58:29,810 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"CSRF token missing or incorrect","status":"fail"}'
+2021-04-19 17:58:29,812 - instabot version: 0.117.0 (api) - ERROR - Request returns 403 error!
+2021-04-19 17:58:30,430 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [403]>
+2021-04-19 17:58:30,431 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"CSRF token missing or incorrect","status":"fail"}'
+2021-04-19 17:58:30,431 - instabot version: 0.117.0 (api) - ERROR - Request returns 403 error!
+2021-04-19 17:58:30,982 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [403]>
+2021-04-19 17:58:30,982 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"CSRF token missing or incorrect","status":"fail"}'
+2021-04-19 17:58:30,982 - instabot version: 0.117.0 (api) - ERROR - Request returns 403 error!
+2021-04-19 17:58:31,548 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [403]>
+2021-04-19 17:58:31,548 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"CSRF token missing or incorrect","status":"fail"}'
+2021-04-19 17:58:31,548 - instabot version: 0.117.0 (api) - ERROR - Request returns 403 error!
+2021-04-19 17:58:32,069 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [400]>
+2021-04-19 17:58:32,069 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'Bad request'
+2021-04-19 17:58:32,069 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2021-04-19 17:58:32,070 - instabot version: 0.117.0 (api) - ERROR - Error checking for `feedback_required`, response text is not JSON
+2021-04-19 17:58:32,071 - instabot version: 0.117.0 (api) - INFO - Full Response: <Response [400]>
+2021-04-19 17:58:32,072 - instabot version: 0.117.0 (api) - INFO - Response Text: Bad request
+2021-04-19 18:03:45,066 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2021-04-19 18:03:45,067 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from c:\users\yelzha\appdata\local\programs\python\python37\lib\site-packages\instabot\bot\bot.py
+2021-04-19 18:03:45,068 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2021-04-19 18:03:45,688 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [403]>
+2021-04-19 18:03:45,689 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"CSRF token missing or incorrect","status":"fail"}'
+2021-04-19 18:03:45,690 - instabot version: 0.117.0 (api) - ERROR - Request returns 403 error!
+2021-04-19 18:03:46,253 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [403]>
+2021-04-19 18:03:46,253 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"CSRF token missing or incorrect","status":"fail"}'
+2021-04-19 18:03:46,253 - instabot version: 0.117.0 (api) - ERROR - Request returns 403 error!
+2021-04-19 18:03:46,816 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [403]>
+2021-04-19 18:03:46,816 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"CSRF token missing or incorrect","status":"fail"}'
+2021-04-19 18:03:46,816 - instabot version: 0.117.0 (api) - ERROR - Request returns 403 error!
+2021-04-19 18:03:47,501 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [403]>
+2021-04-19 18:03:47,501 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"CSRF token missing or incorrect","status":"fail"}'
+2021-04-19 18:03:47,501 - instabot version: 0.117.0 (api) - ERROR - Request returns 403 error!
+2021-04-19 18:03:48,055 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [400]>
+2021-04-19 18:03:48,056 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'Bad request'
+2021-04-19 18:03:48,056 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2021-04-19 18:03:48,057 - instabot version: 0.117.0 (api) - ERROR - Error checking for `feedback_required`, response text is not JSON
+2021-04-19 18:03:48,058 - instabot version: 0.117.0 (api) - INFO - Full Response: <Response [400]>
+2021-04-19 18:03:48,060 - instabot version: 0.117.0 (api) - INFO - Response Text: Bad request
